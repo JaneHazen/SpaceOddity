@@ -1,0 +1,274 @@
+
+div {
+  display: block;
+}
+
+
+.pageone {
+  background-image:url(images/space.jpg);
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    background-color: #111;
+    color: #fff;
+    padding: 80px;
+    text-align:center;
+    font-size: 25px;
+    letter-spacing: 8px;
+     overflow: hidden;
+    white-space: nowrap;
+}
+
+.pagetwo {
+  background-image:url(images/earth.jpg);
+
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pagethree {
+  background-image:url(images/groundcontrol.jpg);
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pagefour {
+
+    background-image:url(images/10.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pagesix {
+
+    background-image:url(images/9.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pageseven {
+
+    background-image:url(images/8.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pageeight {
+
+    background-image:url(images/7.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pagenine {
+
+    background-image:url(images/6.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pageten {
+
+    background-image:url(images/5.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.pageeleven {
+
+    background-image:url(images/4.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.pagetwelve {
+
+    background-image:url(images/3.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.pagethirteen {
+
+    background-image:url(images/2.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pagefourteen {
+
+    background-image:url(images/1.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pagefourteen {
+
+    background-image:url(images/1.jpg);
+    min-height: cover;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.launch {
+    background-image:url(images/space.jpg);
+    min-height: 1000px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#rocket {
+  padding:30%;
+
+}
+
+figcaption {
+  display: block;
+  color:white;
+  text-align:center;
+}
+
+
+.pagefifteen {
+
+    background-color:black;
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#yotom {
+  color:white;
+      font-size: 25px;
+    letter-spacing: 8px;
+    text-align:right;
+    margin:100px;
+}
+.pagesixteen {
+
+    background-color:black;
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#yogc {
+  color:white;
+    font-size: 25px;
+    letter-spacing: 8px;
+    text-align:left;
+    margin:100px;
+}
+
+.pageseventeen {
+
+    background-image:url(images/spacepic.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.pageeighteen {
+
+    background-image:url(images/soupcan.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.pagenineteen {
+
+    background-image:url(images/bluespace.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
