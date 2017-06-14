@@ -222,7 +222,6 @@ figcaption {
 
     background-color:black;
     min-height: 500px;
-
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -230,13 +229,15 @@ figcaption {
 
 }
 
+
+
 #yotom {
   color:white;
       font-size: 25px;
     letter-spacing: 8px;
-    text-align:right;
-    margin:100px;
+    text-align:right-top;
 }
+
 .pagesixteen {
 
     background-color:black;
@@ -254,12 +255,12 @@ figcaption {
     font-size: 25px;
     letter-spacing: 8px;
     text-align:left;
-    margin:100px;
+    margin:50px;
 }
 
 .pageseventeen {
 
-    background-image:url(images/spacepic.jpg);
+    background-image:url(images/soupcan.jpg);
     min-height: 500px;
 
     background-attachment: fixed;
@@ -270,7 +271,7 @@ figcaption {
 }
 .pageeighteen {
 
-    background-image:url(images/soupcan.jpg);
+    background-image:url(images/spacepic.jpg);
     min-height: 500px;
 
     background-attachment: fixed;
@@ -290,3 +291,4 @@ figcaption {
     background-size: cover;
 
 }
+
