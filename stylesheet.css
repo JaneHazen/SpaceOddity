@@ -1,12 +1,13 @@
-@media(max-width: 575px) {
-    .text{
-        color:black;
-    }
-}
 
 div {
   display: block;
 }
+
+.audiobar {
+    background-color: #111;
+    text-align:left;
+}
+
 
 
 .pageone {
@@ -292,3 +293,19 @@ figcaption {
 
 }
 
+@media only screen and (min-width:0px) and (max-width:800px) {
+    .text {
+    background-color: black;
+    color: white;
+    padding: 80px;
+    text-align:justify;
+    font-size: 100%;
+    letter-spacing: 8px;
+     overflow: hidden;
+    white-space: nowrap;
+
+    }
+    img{
+        width:100%;
+    }
+}
