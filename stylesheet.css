@@ -1,3 +1,8 @@
+@media(max-width: 575px) {
+    .text{
+        color:black;
+    }
+}
 
 div {
   display: block;
@@ -188,14 +193,27 @@ div {
     background-size: cover;
 }
 
-#rocket {
-  padding:30%;
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
 
+a:hover, a:active {
+    background-color: gray;
+    color:black;
+}
+
+#rocket {
+  text-align:center;
+  padding:200px;
 }
 
 figcaption {
   display: block;
-  color:white;
   text-align:center;
 }
 
