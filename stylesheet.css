@@ -3,6 +3,12 @@ div {
   display: block;
 }
 
+.audiobar {
+    background-color: #111;
+    text-align:left;
+}
+
+
 
 .pageone {
   background-image:url(images/space.jpg);
@@ -201,14 +207,27 @@ a:hover, a:active {
     background-size: cover;
 }
 
-#rocket {
-  padding:30%;
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
 
+a:hover, a:active {
+    background-color: gray;
+    color:black;
+}
+
+#rocket {
+  text-align:center;
+  padding:200px;
 }
 
 figcaption {
   display: block;
-  color:white;
   text-align:center;
 }
 
@@ -287,3 +306,19 @@ figcaption {
 
 }
 
+@media only screen and (min-width:0px) and (max-width:800px) {
+    .text {
+    background-color: black;
+    color: white;
+    padding: 80px;
+    text-align:justify;
+    font-size: 100%;
+    letter-spacing: 8px;
+     overflow: hidden;
+    white-space: nowrap;
+
+    }
+    img{
+        width:100%;
+    }
+}
